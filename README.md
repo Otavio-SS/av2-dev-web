@@ -31,3 +31,5 @@ git clone https://github.com/seuusuario/produtos-app.git
 cd produtos-app
 npm install
 npm run dev
+
+URL VERCEL: https://vercel.com/otavio-ss-projects/av2-dev-web-25xc
